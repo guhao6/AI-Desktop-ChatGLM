@@ -17,5 +17,25 @@
 - LangChain（大模型调用）
 - 智谱 AI ChatGLM（大模型）
 
+### 环境依赖
+Python 3.8+
+安装依赖：
+pip install -r requirements.txt
+
+### 使用说明
+1. 在keys.py中填入个人智谱AI API密钥
+2. 运行main.py启动程序
+
+### 技术栈
+Python | PySide6 | LangChain | ChatGLM
+
 ## 运行方法
 1. 安装依赖
+2. 在 `keys.py` 中填入你的智谱 AI API Key
+3. 运行程序
+
+## 项目结构
+- main.py        主程序入口
+- stats2.py      UI 界面文件
+- keys.py        API 密钥配置
+- requirements.txt  依赖环境
