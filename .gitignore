@@ -1,0 +1,17 @@
+# 虚拟环境
+agent_env/
+venv/
+.env
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 密钥文件
+keys.py
+
+# 系统文件
+.DS_Store
+Thumbs.db
