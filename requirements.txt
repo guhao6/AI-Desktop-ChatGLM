@@ -1,0 +1,4 @@
+pyside6
+langchain
+langchain-community
+langchain-core
